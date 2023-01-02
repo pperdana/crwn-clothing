@@ -56,5 +56,6 @@ export const UserProvider = ({ children }) => {
     });
     return unsubscribe;
   }, []);
+
   return <UserContext.Provider value={value}>{children}</UserContext.Provider>;
 };
