@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Crown Clothing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Crown Clothing is an a clothing e-commerce web app that allows businesses to sell clothing products online. This web include features such as a product catalog, shopping cart, payment gateway integration, and secure checkout process.
 
-## Available Scripts
+### Links
 
-In the project directory, you can run:
+- Live Site URL: [https://crown-cloth-pperdana.netlify.app](https://crown-cloth-pperdana.netlify.app)
 
-### `npm start`
+## Table of contents
+  - [Overview](#overview)
+    - [Features](#features)
+    - [Screenshot](#screenshot)
+  - [Tech stack](#tech-stack)
+  - [Author](#author)
+  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Features
 
-### `npm test`
+Users should be able to:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Display products online
+- Provide product descriptions, pricing, and images
+- Offer payment options
+- Secure online transactions using SSL encryption and other security measures
+- Provide customers with shopping carts to add and manage products they want to purchase
+- Allow customers to create accounts to store their personal information and track their orders
 
-### `npm run build`
+### Screenshot
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- ![](./design/desktop-preview.jpg) -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tech stack
+- React
+- Firebase
+- React Router
+- Redux
+- Redux Saga
+- Stripe
+- Context API
+- Styled Components
+- React Hook
+- Semantic HTML5 markup
+- CSS Custom Properties
+- Mobile First Workflow
+- CSS Grid
+- Flexbox
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Author
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Website - [pperdana.netlify.app](https://pperdana.netlify.app)
+- Frontend Mentor - [@Panji200](https://www.frontendmentor.io/profile/Panji200)
+- Email - panjiperdana088@gmail.com
