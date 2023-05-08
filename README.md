@@ -18,8 +18,6 @@ Crown Clothing is an a clothing e-commerce web app that allows businesses to sel
 
 ### Features
 
-Users should be able to:
-
 - Display products online
 - Provide product descriptions, pricing, and images
 - Offer payment options
