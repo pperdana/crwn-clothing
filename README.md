@@ -12,7 +12,6 @@ Crown Clothing is an a clothing e-commerce web app that allows businesses to sel
     - [Screenshot](#screenshot)
   - [Tech stack](#tech-stack)
   - [Author](#author)
-  
 
 ## Overview
 
@@ -27,8 +26,7 @@ Crown Clothing is an a clothing e-commerce web app that allows businesses to sel
 
 ### Screenshot
 
-<!-- ![](./design/desktop-preview.jpg) -->
-
+![](./public/crwn.png)
 
 ## Tech stack
 - React
